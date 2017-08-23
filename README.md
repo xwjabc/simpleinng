@@ -1,6 +1,6 @@
 ## Quick Look at SimpleINNg
 
-This tutorial is based on SimpleIGM v1.
+This tutorial is based on SimpleINNg v1.
 
 #### Outline
 
