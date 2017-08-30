@@ -2,6 +2,11 @@
 
 This tutorial is based on SimpleINNg v1.
 
+#### Usage
+`CelebA-Dataset.ipynb` is used to download CelebA dataset and do some preprocessing.
+`SimpleINNg.ipynb` is used to train the network.
+Currently this experimental code only contains training procedure. 
+
 #### Outline
 
 <img src="images/network-outline.png" width="500px" />
